@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Arapey:ital@1&family=Dancing+Script&family=Merienda&family=Nunito+Sans:wght@300&family=PT+Serif:wght@700&family=Pacifico&family=Roboto+Slab:wght@100&family=Shizuru&display=swap');
+body{
+  background-color:black;
+padding:20px;
+margin:150px;
+border:8px double white;
+color:white;
+}
+div{
+  display:inline-flex;
+}
+.e{
+  padding-top: 1550px;
+  line-height:50px;
+  word-spacing:6px;
+  letter-spacing:2px;
+  font-size:45px;
+  font-style:italic;
+  padding-top:80px;
+  padding-right:680px;
+  text-shadow:2px 2px 2px red;
+  text-align:right;
+}
+.cl2{
+  margin-left:670px;
+  font-size:30px;
+  font-style:italic;
+}
+.i{
+  border:1px solid red;
+  margin-left: 350px;
+  border-radius:600px;
+}
+
+.p{
+  line-height: 40px;
+  font-size:30px;
+  font-style:italic;
+}
+.v{
+  color:red;
+  line-height:40px;
+  font-family: 'Aclonica', sans-serif;
+  font-size:30px;
+}
+.g{
+  font-size:30px;
+  line-height:45px
+}
+.u{
+margin-right:240px;
+  font-size:30px;
+  font-style:italic;
+}
+.b{
+margin-right:520px;
+  font-size:30px;
+  font-style:italic;
+}
+.l{
+  margin-right:2300px;
+  font-size:18px;
+  font-style:italic;
+}
+.s{
+  margin-right:300px;
+  font-size:25px;
+  font-style:italic;
+}
+.x{
+  font-size:30px;
+}
